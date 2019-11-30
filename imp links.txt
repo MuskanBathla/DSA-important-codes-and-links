@@ -3,3 +3,7 @@ https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
 https://www.geeksforgeeks.org/avl-tree-set-2-deletion/
 
 https://www.geeksforgeeks.org/c-program-hashing-chaining/
+
+https://www.geeksforgeeks.org/binary-heap/
+
+https://www.geeksforgeeks.org/building-heap-from-array/
