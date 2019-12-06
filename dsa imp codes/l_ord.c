@@ -165,7 +165,7 @@ enqueue(q,t);
 
 while(!isempty(q))
 { curr=q->Q[q->front];
-dum=dequeue(q);
+dum=dequeue(q); //to remove from queue
 
 if(curr->left)
 enqueue(q,curr->left);
